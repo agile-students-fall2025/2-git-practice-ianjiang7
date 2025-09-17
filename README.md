@@ -3,3 +3,6 @@
 
 # Why is this interesting?
 I found this MIT article very interesting since many people nowadays are worried about AI taking their jobs. While there has been many advancements and new models coming out, this article reassures people that we shouldn't be worried. It mentions how AI is good at small, isolated tasks but that is not what software engineers do. They look at the big picture and work with large codebases unique to each company. The article even mentions AI generating code that "hallucinates," code that looks decent but doesn't actually fit the company or internal conventions. 
+
+## Comment
+I find it interesting is how the article frames AI as a helper, not a replacement. Instead of taking over programming, AI could handle routine coding while humans focus on design, creativity, and problem-solving. It’s more about partnership and working together than replacement. - *Jiaying*
